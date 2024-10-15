@@ -1,5 +1,6 @@
 {
   "name": "indigosworld",
+  "homepage": "https://github.com/Awesome8Indigo/Awesome8Indigo.github.io.git",
   "version": "1.0.0",
   "description": "My personal webpage!!",
   "main": "src/index.js",
